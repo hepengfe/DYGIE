@@ -1,0 +1,13 @@
+*__pycache__
+.mypy_cache/*
+*.pyc
+data/*
+models/*
+models-old/*
+cache/*
+predictions/*
+pretrained/*
+**/stanford*/*
+scratch*
+*.tsv
+
